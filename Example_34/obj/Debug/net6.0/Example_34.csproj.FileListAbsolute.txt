@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\obj\Debug\net6.0\Example_34.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\obj\Debug\net6.0\Example_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\obj\Debug\net6.0\Example_34.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\obj\Debug\net6.0\Example_34.AssemblyInfo.cs
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\obj\Debug\net6.0\Example_34.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\bin\Debug\net6.0\Example_34.exe
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\bin\Debug\net6.0\Example_34.deps.json
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\bin\Debug\net6.0\Example_34.runtimeconfig.json
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\bin\Debug\net6.0\Example_34.dll
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\bin\Debug\net6.0\ref\Example_34.dll
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\bin\Debug\net6.0\Example_34.pdb
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\obj\Debug\net6.0\Example_34.dll
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\obj\Debug\net6.0\ref\Example_34.dll
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\obj\Debug\net6.0\Example_34.pdb
+C:\Users\user\Desktop\Homework_51\Examples\Example_34\obj\Debug\net6.0\Example_34.genruntimeconfig.cache
